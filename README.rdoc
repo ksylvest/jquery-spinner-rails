@@ -1,3 +1,3 @@
-= JquerySpinnerRails
+= jQuery Spinner Rails
 
-This project rocks and uses MIT-LICENSE.
+Asset pipeline integration for: http://ksylvest.github.com/jquery-spinner/
