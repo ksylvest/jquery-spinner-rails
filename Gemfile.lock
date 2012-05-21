@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jquery-spinner-rails (0.0.1)
+    jquery-spinner-rails (1.0.0)
       rails (> 3.1.0)
 
 GEM
